@@ -1,7 +1,7 @@
 # Census_SQL_Project
 ## India Census Data Analysis
 
-This project is a practice exercise in SQL querying, using data from the Indian census. The data is sourced from a YouTube tutorial and serves as a learning tool for exploring and analyzing real-world datasets.
+This project is a practice exercise in SQL querying, using data from the Indian census. The data is sourced from a YouTube tutorial and serves as a learning tool for exploring and analyzing real-world datasets. Youtube Link :- https://youtu.be/I3YvjFfn478?si=L00E_1azTtAXDvYB
 
 **Project Goals:**
 
@@ -11,7 +11,7 @@ This project is a practice exercise in SQL querying, using data from the Indian 
 
 **Data:**
 
-The project utilizes two tables from the Indian census data:
+The project utilizes two tables from the Indian census data contains following:
 
 * **population:** Contains demographic information about the population, including:
     * **sex_ratio:** The number of females per 1000 males.
