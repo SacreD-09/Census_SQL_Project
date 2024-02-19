@@ -37,9 +37,9 @@ By working with this data, you can gain valuable experience in:
 * Interpreting and analyzing the retrieved data, considering factors like sex ratio, area, growth rate, and literacy.
 * Drawing meaningful conclusions from the results, identifying trends or patterns within the data.
 
-**Learning Resources:**
+**Tools Used:**
 
-* (Optional: Include the link to the YouTube tutorial if relevant)
+* MySQL
 
 **Disclaimer:**
 
@@ -51,4 +51,3 @@ This project is for educational purposes only and does not claim to represent th
 * Consider incorporating data visualization techniques like charts and graphs to present your findings in a more intuitive way.
 * Feel free to explore other publicly available datasets to broaden your SQL practice and data analysis skills.
 
-I hope this README provides a clearer and more comprehensive overview of the project, incorporating the additional information you requested.
